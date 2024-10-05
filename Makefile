@@ -1,4 +1,4 @@
 # basic simple Makefile starter
 #
-CFLAGS=-Wall -g
+CFLAGS=-Wall -Wextra -g
 
